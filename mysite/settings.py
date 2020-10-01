@@ -133,8 +133,8 @@ STATIC_URL = '/static/'
 
 EMAIL_HOST = 'smtp.gmail.com' # The SMTP server host; the default is localhost
 EMAIL_PORT = 587 # The SMTP port; the default is 25
-EMAIL_HOST_USER = 'charlesclinton2003@gmail.com' # The username for the SMTP server
-EMAIL_HOST_PASSWORD = 'henry2014?' # The password for the SMTP server
+EMAIL_HOST_USER = 'xxxxxxxxxxxxx' # The username for the SMTP server or email address
+EMAIL_HOST_PASSWORD = 'xxxxxxxxxxx' # The password for the SMTP server
 EMAIL_USE_TLS = True # Whether to use a Transport Layer Security (TLS) secure
 #EMAIL_USE_SSL = # Whether to use an implicit TLS secure connection
 
